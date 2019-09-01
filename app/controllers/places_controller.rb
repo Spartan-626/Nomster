@@ -1,6 +1,7 @@
 class PlacesController < ApplicationController
 
-    def idnex
+    def index
+        @places = Place.all
     end
 
 end
