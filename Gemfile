@@ -70,6 +70,7 @@ gem 'devise'
 gem 'geocoder'
 gem 'figaro'
 gem 'carrierwave'
+gem 'fog-aws'
 
 
 source 'https://rails-assets.org' do
